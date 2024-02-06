@@ -7,3 +7,5 @@ Skolverket har, i samråd med andra relevanta aktörer i utbildningsväsendet, b
 Skolverket behöver ingå i en identitetsfederation och för detta har Skolverket beslutat om upp upprätta en Skolmyndighetsfederation där även andra myndigheter med behov av åtkomst till tjänster publicerade i FIDUS kan ansöka om anslutning.
 
 [Federationens Policy](policy-skolmyndighetsfederationen.md)
+
+[SAML WebSSO Technology Profile](Skolmyndighetsfederationen-SAML-WebSSO-Technology-Profile-v1.0.pdf)
